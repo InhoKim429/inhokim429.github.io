@@ -4,6 +4,9 @@ I am an Integrated M.S. & Ph.D. Student in Computer Science and Engineering at P
 
 My research interest is audio-vision multimodal learning, and Vision-Language-Action model.
 
+<!-- #### Curriculum Vitae
+[Download CV](static/assets/inhokim_cv.pdf) -->
+
 #### Contact
 
 Email: kimih@postech.ac.kr
