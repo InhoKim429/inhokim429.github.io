@@ -13,5 +13,5 @@ Integrated M.S. & Ph.D., Computer Science and Technology, Pohang University of S
 B.S., Computer Science and Technology, Pohang University of Science and Technology (POSTECH), 2018 — 2022 \
 
 #### Research Interests
-Audio multimodal learning, Vision-Language-Action model
+Audio-visual multimodal learning, Vision-Language-Action model
 
