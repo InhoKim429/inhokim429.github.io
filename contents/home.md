@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am an M.S.-Ph.D. integrated student in Computer Vision at POSTECH, working as a member of the Computer Vision Lab, advised by Suha Kwak.
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I have worked on webly supervised learning, audio-vision multimodal learning, and Vision-Language-Action model.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: kimih@postech.ac.kr
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Science and Technology, Pohang University of Science and Technology (POSTECH), 2022— \
+B.E., Computer Science and Technology, Pohang University of Science and Technology (POSTECH), 2018—2022 \
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Audio multimodal learning, Vision-Language-Action model
 
